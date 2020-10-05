@@ -1,2 +1,2 @@
 # Sistemas-Operacionais
-Códigos implementados na disciplina de Sistemas operacionais
+Códigos implementados na disciplina de Sistemas Operacionais - UFCG - 2020.3

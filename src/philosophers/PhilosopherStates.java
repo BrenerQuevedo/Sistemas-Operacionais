@@ -1,4 +1,4 @@
-package philosophers.enums;
+package philosophers;
 
 public enum PhilosopherStates {
     THINKING,
